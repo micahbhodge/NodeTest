@@ -1,0 +1,19 @@
+{
+  "name": "supercoolpackage",
+  "version": "1.0.0",
+  "description": "blha blah",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "react": "16.13.1",
+    "read-line": "^0.1.2",
+    "terminal-kit": "^1.42.0",
+    "typeit": "^7.0.4"
+  }
+}
